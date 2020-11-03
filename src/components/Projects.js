@@ -13,7 +13,7 @@ const Projects = props => {
           </div>
           <div className="projects-wrapper">
             <Project
-              title="Check out my github account"
+              title="Check out my github"
               img={'https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png'}
               tech="js react css java sass node python"
               repo="https://github.com/tushig11"
