@@ -1,7 +1,7 @@
 import Project from './Project'
 
 const Projects = props => {
-    const link = "https://www.dropbox.com/s/hv96yz7lq3vu195/TushigResume.pdf?dl=0"
+    const link = "https://www.dropbox.com/s/f59tp2owr5x5yz2/%5BResume%5DGantushig_Javkhlan.pdf?dl=0"
     return (
       <section id="projects">
         <div className="projects-container">
