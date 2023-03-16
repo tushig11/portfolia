@@ -11,7 +11,7 @@ const About = props => {
             <div className="desc full">
               <h4 className="subtitle">My name is Gantushig</h4>
               <p>
-              I am a web developer with 6 years of experience in designing, developing, and managing complex web applications.
+              I am a web developer with 8 years of experience in designing, developing, and managing complex web applications.
               </p>
               <p>
                 I really enjoy solving problems as well as making things pretty and easy to use. I
@@ -27,7 +27,7 @@ const About = props => {
               <p>
                 For the front-end I usually work with Javascript, either standalone or including
                 popular frameworks like ReactJS and Angular. I also make the web pretty by using Sass,
-                CSS and, whenever needed, any of their friends: Bootstrap, Bulma, etc.
+                CSS and, whenever needed, any of their friends: Bootstrap, MaterialUI, etc.
               </p>
             </div>
             <div className="desc">
